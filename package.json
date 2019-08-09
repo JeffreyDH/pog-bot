@@ -1,0 +1,22 @@
+{
+  "name": "pog-bot",
+  "version": "1.0.0",
+  "description": "bot of the future",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffreyDH/pog-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffreyDH/pog-bot/issues"
+  },
+  "homepage": "https://github.com/JeffreyDH/pog-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
