@@ -1,0 +1,6 @@
+{
+    "name":"pog-bot",
+    "script":"index.js",
+    "node_args":["--debug=7000"],
+    "watch":true
+}
