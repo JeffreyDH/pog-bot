@@ -64,4 +64,4 @@ client.on('message', (message)=>{
     }
 });
 
-client.login(`${process.env.AUTH_TOKEN}`);
+client.login(process.env.AUTH_TOKEN);
