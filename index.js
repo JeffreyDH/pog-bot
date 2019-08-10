@@ -7,7 +7,6 @@ const cooldowns = new Discord.Collection();
 const { prefix } =  require('./config.json');
 dotenv.config();
 
-
 const commandFiles = fs.readdirSync('./commands/').filter(file=>file.endsWith('.js'));
 // register all of the commands
 for(const file of commandFiles){
